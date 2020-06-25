@@ -5,3 +5,6 @@ It is a tag game in python
 
 PLEASE NOTE: You need playsound downloaded in your computer.
 Also, you need python.
+
+
+# How To Play
