@@ -112,7 +112,7 @@ class tag():
             
             wn.update()
             if player_1.xcor() == player_2.xcor() and player_1.ycor() == player_2.ycor():
-                playsound("Wbounce.wav")
+                playsound("bounce.wav")
                 player_2.color("black")
                 print("Game Over")
                 
