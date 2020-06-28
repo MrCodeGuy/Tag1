@@ -1,6 +1,6 @@
 # Tag1
 It is a tag game in python
-# Important Stuff
+## Requirments 
 
 
 PLEASE NOTE: You need playsound downloaded in your computer.
