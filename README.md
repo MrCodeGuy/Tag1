@@ -2,17 +2,14 @@
 It is a tag game in python
 ## Requirments 
 
+-Python
+-Playsound
 
-PLEASE NOTE: You need playsound downloaded in your computer.
-Also, you need python.
+## How To Play
+The turtle on the left  moves using the WASD keys. The turtle needs to touch the ball (the other player) to win. The ball moves using the arrow keys. The goal is to evade the turtle.
 
-
-# How To Play
-The turtle on the right moves using the WASD keys. The turtle needs to touch the balll (which is the other okayer) to win. The ball moves using the arrow keys. It needs to run a way from the turtle.
-
-
-# About the Code
+## About
 The code uses the turtle module on python and it uses the playsound module.
 
-# Conclusion
-If you have any dislikes please write it down on the issues and I will respond to them.
+## Conclusion
+If you have any dislikes please open an issue or a PR and I will respond to them.
